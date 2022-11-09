@@ -5,9 +5,9 @@
 
 - 🌱 Atualmente estou estudando **Java, Kotlin, Phyton e linux.**
 
-- 👯 estou trabalhando para colaborar com **dúvidas em programação e nos projetos.**
+- 👯 Estou procurando colaborar com **perguntas em programação e nos projetos.**
 
-- 👯 estudos com **dúvidas recorrentes que tenho sobre meus, projetos e minha carreira profissional.**
+- 🤝 Estou procurando ajuda com **questões recorrentes que tenho sobre meus estudos, projetos e minha carreira profissional.**
 
 - 👨‍💻 Todos os projetos ajuda estão disponíveis em https://github.com/CFSC3
 
