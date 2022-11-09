@@ -9,7 +9,7 @@
 
 - 🤝 Estou procurando ajuda com **questões recorrentes que tenho sobre meus estudos, projetos e minha carreira profissional.**
 
-- 👨‍💻 Todos os projetos ajuda estão disponíveis em https://github.com/CFSC3
+- 👨‍💻 Todos os projetos estão disponíveis em https://github.com/CFSC3
 
 - 💬 pergunte-me sobre **programação, desenvolvimento, gatos e livros.**
 
