@@ -3,7 +3,7 @@
 
 - 🔭 atualmente estou trabalhando em **projetos pessoais para agregar meu conhecimento.**
 
-- 🌱 Atualmente estou atualizando **Java, Kotlin, Phyton e linux.**
+- 🌱 Atualmente estou estudando **Java, Kotlin, Phyton e linux.**
 
 - 👯 estou trabalhando para colaborar com **dúvidas em programação e nos projetos.**
 
