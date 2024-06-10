@@ -1,5 +1,5 @@
 <h1 aligncenter">Oi 👋, eu sou o Carlos Felipe Souza Carvalho</h1>
-<h3 align="center">Desenvolvedor apaixonado pela área de programação android e linguagem java.</h3>
+<h3 align="center">Desenvolvedor na área de programação android e linguagem java.</h3>
 
 - 🔭 atualmente estou trabalhando em **projetos pessoais para agregar meu conhecimento.**
 
