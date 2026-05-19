@@ -24,8 +24,10 @@ Sou um entusiasta de tecnologia focado em **Qualidade de Software (QA)** e desen
 ---
 
 ### 📊 GitHub Stats
-![Status do GitHub de Luz](https://github-readme-stats.vercel.app/api?username=CFSC3&show_icons=true&theme=dracula)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=CFSC3&layout=compact&theme=dracula)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CFSC3&theme=radical&hide_border=true" alt="GitHub Streak do Carlos Felipe" />
+</div>
+
 
 ### 📫 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-felipe-souza-carvalho/)
