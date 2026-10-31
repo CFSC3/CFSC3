@@ -2,7 +2,7 @@
 
 ### Analista de QA em Formação | Python & Java Developer | Estudante de ADS
 
-Sou um entusiasta de tecnologia focado em **Qualidade de Software (QA)** e desenvolvimento back-end. Atualmente, curso o 3º período de Análise e Desenvolvimento de Sistemas no Senac, onde busco aplicar as melhores práticas de teste e desenvolvimento para criar soluções robustas.
+Sou um entusiasta de tecnologia focado em **Qualidade de Software (QA)** e desenvolvimento back-end. Atualmente, curso o 4º período de Análise e Desenvolvimento de Sistemas no Senac, onde busco aplicar as melhores práticas de teste e desenvolvimento para criar soluções robustas.
 
 ---
 
